@@ -1,4 +1,4 @@
-# Example MVC project with Express and Handlebars
+# Ejercicio para evaluacion unidad 1 CALCULO DE INTERES SIMPLE 
 
 Este proyecto corresponde a la evaluacion de la unidad 1 
 
